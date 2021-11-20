@@ -1,0 +1,6 @@
+gTTS
+pyttsx3
+playsound
+SpeechRecognition
+flask_cors
+kats
