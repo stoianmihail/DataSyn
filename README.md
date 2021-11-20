@@ -18,6 +18,10 @@ Run the app:
 flask run
 `
 
+# Demo
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/mvaxc01UpMs/0.jpg)](https://youtu.be/mvaxc01UpMs "DataSyn: Go dashboardless!")
+
 # Acknowledgements
 
-We thank SAP for the beautiful challenge they proposed in hackaTUM@2021!
+We thank SAP for the amazing challenge they proposed in hackaTUM@2021!
