@@ -7,7 +7,7 @@ DataSyn is the solution for modern companies. Go dashboardless! Your managers wi
 Makre sure you install the requirements:
 
 `
-pip3 install -r requirements
+pip3 install -r requirements.txt
 `
 
 # Run
